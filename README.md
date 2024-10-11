@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm BUBBA 
 
-I'm a passionate frontend developer with expertise in HTML, CSS, JavaScript, React, PHP, and Bootstrap. I love crafting beautiful and responsive web experiences that delight users and bring ideas to life.
+I'm a passionate frontend developer with expertise in HTML, CSS, JavaScript, React, PHP, Tailwind CSS and Bootstrap. I love crafting beautiful and responsive web experiences that delight users and bring ideas to life.
 
 ## About Me
 
